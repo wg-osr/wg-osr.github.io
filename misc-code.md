@@ -23,3 +23,6 @@ Contents of Column 2
 | ok           | good `zoute` drop | yumm  |
 
 </div>
+
+This paragraph will have 2rem/32px of padding on the right and left at all screen sizes.
+{: .px-6 }

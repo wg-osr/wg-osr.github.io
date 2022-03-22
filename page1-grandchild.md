@@ -1,7 +1,7 @@
 ---
 title: Granchild of Test
-parent: page1-child
-grand_parent: page1
+parent: Page 1 Child
+grand_parent: Page 1
 nav_order: 1
 ---
 

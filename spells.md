@@ -1,3 +1,4 @@
+### The Barrel of Dr. Faustus
 <dl>
 <dt>Level</dt>
 <dd>1</dd>

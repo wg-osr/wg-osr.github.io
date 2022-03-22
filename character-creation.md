@@ -21,8 +21,21 @@ All ability scores begin at +0. Roll a d6 to add a +1 to ability according to th
 - **Combat Speed:** 30' per 10-second round
 
 ## III. Backgrounds
-| Test 1 | Test 2 | Test 3 | Test 4 | Test 4 |
-|--------|--------|--------|--------|--------|
-| a      | b      | c      | d      | e      |
-| 1      | 2      | 3      | 4      | 5      |
-|        |        |        |        |        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Test 1</th>
+    <th class="tg-0pky">Test 2</th>
+    <th class="tg-0pky">Test 3</th>
+    <th class="tg-0pky">Test 4</th>
+    <th class="tg-0pky">Test 4</th>
+  </tr>
+</thead>

@@ -3,6 +3,8 @@ title: Index
 has_children: false
 nav_order: 1
 ---
+WIP
+{: .label .label-yellow }
 
 ## Welcome to WACK 
 Here lies my personal Knave hack <br>

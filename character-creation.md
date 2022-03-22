@@ -6,34 +6,23 @@ nav_order: 4
 
 # Character Creation
 
-## 1. Ability Scores
-All ability scores begin at +0
+## I. Ability Scores
+All ability scores begin at +0. Roll a d6 to add a +1 to ability according to the table below. Then add a +1 to two other abilities of your choice.
+1. +1 to **Strength**
+2. +1 to **Dexterity**
+3. +1 to **Constitution**
+4. +1 to **Intelligence**
+5. +1 to **Wisdom**
+6. +1 to **Charisma**
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
+## II. Secondary Stats
+- **Item Slots:** Equal to 10 + CON bonus
+- **Hit Points:** 1d8
+- **Combat Speed:** 30' per 10-second round
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
+## III. Backgrounds
+| Test 1 | Test 2 | Test 3 | Test 4 | Test 4 |
+|--------|--------|--------|--------|--------|
+| a      | b      | c      | d      | e      |
+| 1      | 2      | 3      | 4      | 5      |
+|        |        |        |        |        |

@@ -45,7 +45,7 @@ GM should allow them to make an attempt.
     <td>Sneak (Dex)</td>
   </tr>
   <tr>
-    <td>Brew Potion (Int)</td>
+    <td>Brew Poison (Int)</td>
     <td>Listen (Wis)</td>
     <td>Spot (Wis)</td>
   </tr>

@@ -1,6 +1,6 @@
 ---
 title: Page 1 Child
-parent: page1
+parent: Page 1
 has_children: true
 nav_order: 1
 ---

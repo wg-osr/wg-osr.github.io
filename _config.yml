@@ -1,5 +1,5 @@
 title: "WACK"
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "myDark"
+color_scheme: "/custom/myDark"
 search_enabled: true
 heading_anchors: true

@@ -15,6 +15,7 @@ The core rules system comes from Knave (and its many *other* hacks) as well as..
 - "Classless" characters but possible options for lineages, backgrounds, or something else
 - Ancestry instead of Race
 - Mork Borg's "Calender of Nechrubel"
+- EMDT's Helveczia. Skills, Spells, and other random things
 
 
 ### "Class" System

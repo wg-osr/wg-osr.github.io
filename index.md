@@ -13,3 +13,8 @@ The core rules system comes from Knave (and its many *other* hacks) as well as..
 - "Classless" characters but possible options for lineages, backgrounds, or something else
 - Ancestry instead of Race
 - Mork Borg's "Calender of Nechrubel"
+
+
+### "Class" System
+- Every PC starts out with a background, either randomly rolled or created. This does not determine who they are but where they came from. The player gains a bonus to non-combat checks relating to their background
+- Instead of choosing a class, a player will choose Knacks when they level up. 

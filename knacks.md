@@ -1,3 +1,11 @@
+---
+title: Knacks
+parent: Character Creation
+has_children: false
+nav_order: 1
+---
+
+
 # Knacks
 When a character levels up they may either increase a single Ability Score by +1 or choose one of the knacks below.
 

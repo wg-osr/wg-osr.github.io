@@ -34,4 +34,10 @@ When a character levels up they may either increase a single Ability Score by +1
 - **Favor of the Gods** - Once per day as a free actions you can heal [CHA Bonus] HP.
 - **Muscle Armor** - CON is your Armor Defense when you aren't wearing armor. You may still wield a shield or helmet
 - **Cleave** - When you strike and kill a foe immediately make another attack on an additional adjacent foe. Does not stack.
-- 
+
+---
+
+### Knacks of Wyld
+- **Hunter's Mark** - As a free action once per day, mark your target as living on borrowed time. You have advantage on your next [level] attacks against them
+- **Sharpshooter** - Note the crosswind with precise accuracy. Use the next highest damage dice for ranged weapons. (Sling d6, Bow d8, Crossbow d10)
+- **Deft Quartermaster** - Your rations, potions, and equipment from the Dungeoneering Gear in the Starting Gear section can be bundled two to an inventory slot.

@@ -11,6 +11,12 @@ When a character levels up they may either increase a single Ability Score by +1
 
 - [Knacks of War](#knacks-of-war)
 - [Knacks of Brunt](#knacks-of-brunt)
+- [Knacks of Wyld](#knacks-of-wyld)
+- [Knacks of Trickery](#knacks-of-trickery)
+- [Knacks of Faith](#knacks-of-faith)
+- [Knacks of Nature](#knacks-of-nature)
+- [Knacks of Magic](#knacks-of-magic)
+- [Knacks of Wyrd](#knacks-of-wyrd)
 
 
 ### Knacks of War

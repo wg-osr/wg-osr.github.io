@@ -9,8 +9,8 @@ nav_order: 1
 # Knacks
 When a character levels up they may either increase a single Ability Score by +1 or choose one of the knacks below.
 
-- [Knacks of War](##knacks-of-war)
-- [Knacks of Brunt](##knacks-of-brunt)
+- [Knacks of War](#knacks-of-war)
+- [Knacks of Brunt](#knacks-of-brunt)
 
 
 ### Knacks of War

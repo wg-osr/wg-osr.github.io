@@ -1,6 +1,6 @@
 ---
 title: Spelunker
-parent: character-creation
+parent: Character Creation
 has_children: false
 nav_order: 1
 ---

@@ -6,11 +6,6 @@ nav_order: 3
 
 ![](/img/Apprentice.jpg){: width ="25" }
 
-
-
-
-
-
 Spells are cast out of spell books, which must be held in both hands and read aloud. Each spell books only holds a single spell, and each spell book takes up an item slot.
 
 In order to reliably cast spells a PC must take the Student of the Arcane Knack. 

@@ -47,3 +47,28 @@ When a character levels up they may either increase a single Ability Score by +1
 - **Hunter's Mark** - As a free action once per day, mark your target as living on borrowed time. You have advantage on your next [level] attacks against them
 - **Sharpshooter** - Note the crosswind with precise accuracy. Use the next highest damage dice for ranged weapons. (Sling d6, Bow d8, Crossbow d10)
 - **Deft Quartermaster** - Your rations, potions, and equipment from the Dungeoneering Gear in the Starting Gear section can be bundled two to an inventory slot.
+- **Trick-Shot** - Targets only receive half of their normal cover bonus. When you shoot into melee, enemy combatants count as two combatants for the purposes of randomly determining who you hit. ***FIXME: Change this, players choose who they hit, it is not random***
+- **Night Vigil** - When camping, you can gain advantage on the encounter die after describing your watch routine and setting up a perimeter by means of your choosing.
+- **Skirmisher** - Immediately after you are attacked in melee, you can move up to half your speed without provoking opporunity attacks. ***Once per round.***
+
+---
+
+### Knacks of Trickery
+- **Acrobat** - You gain advantage on saves to balance, climb, leap, and tumble.
+- **Burglar** - You gain advantage on saves to hide in shadows, move silently, and climb.
+- **Backstab!** - When you attack a foe with a melee weapon who is already engaged with an ally, you inflict and additional 1d6 per level damage. You attack with advantage if you attack from hiding.
+- **Dungeoneer** - You have advantage on DEX saves to disable traps; assuming you have the proper tools. Three times per day you may ask the following questions and must be given an honest answer:
+    - Is there a trap here? (Yes/No)
+    - Is there a hidden door here? (Yes/No)
+ - **Lucky AF** - Once per day you may reroll a Critical Fail or force a foe to reroll a Critical Success that would affect you.
+ - **Evasive** - Once per round, if you can see the source, you can reduce the amount of damage taken equal to your DEX Bonus.
+
+---
+
+### Knacks of Faith
+- **Blind Faith** - Take a sacred oath with your faith/authority. You gain the ability to use Clerical Implements (bells, candles, herbs, etc) and gain one. You must hold the Clerical Implement in one hand in order to cast Prayers. Each time you choose this knack you gain 1 level, max 4 levels.
+- **Turn Undead**
+- **Pacifist**
+- **Hammer of The Authority**
+- **Sacred Feast**
+- **Witch Hunter**

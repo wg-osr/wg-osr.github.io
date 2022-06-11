@@ -4,7 +4,7 @@ has_children: true
 nav_order: 3
 ---
 
-![](/img/Apprentice.jpg)
+![](/img/Apprentice.jpg){: width ="25" }
 
 
 

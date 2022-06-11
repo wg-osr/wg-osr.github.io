@@ -4,7 +4,8 @@ has_children: true
 nav_order: 3
 ---
 
-**Magic**
+![image](/img/apprentice.jpg)
+
 
 Spells are cast out of spell books, which must be held in both hands and read aloud. Each spell books only holds a single spell, and each spell book takes up an item slot.
 

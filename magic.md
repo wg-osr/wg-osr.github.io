@@ -4,7 +4,8 @@ has_children: true
 nav_order: 3
 ---
 
-<img src="/img/apprentice.jpg">
+![image tooltip here](/img/apprentice.jpg)
+
 
 
 
